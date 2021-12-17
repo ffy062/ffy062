@@ -5,7 +5,7 @@ I'm a student from department of computer science(CS) and minor in Quantitative 
 Currently, I'm also an intern in Industrial Technology Research Institute (ITRI), working on project about redistribution layer(RDL) routing.
 
 ## 📚 Experience
-- Intership in Industrial Technology Research Institute (ITRI-EOSL-R100)   ,2021/3-now
+- Intership in Heterogeneous Integration Technology & Intelligent System Division/Electronic and Optoelectronic System research Lab./Industrial Technology Research Institute  (ITRI-EOSL-R100)   ,2021/3-now
 - Undergraduate student of NTHU CS [THETA LAB](http://theta.cs.nthu.edu.tw/) (Instructor: Prof. Tsung-Yi Ho)   ,2020/9-2021/12
 - Teaching assistant of Logic Design Laboratory(EECS207002) (Instructor: Prof. CHIH-TSUN HUANG)   ,2020/9-2021/1
 
