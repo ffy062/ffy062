@@ -1,12 +1,13 @@
 ## 👋 Hi there, Welcome to my GitHub homepage 
 
 ## 🧑‍🎓 About Myself
-I'm now a master student of Graduate Institute of Electronics Engineering(GIEE), National Taiwan University(NTU), Taiwan.
-By I got my bachelor degree of computer science(CS) and minor in Quantitative Finance(QF),in National Tsing Hua University (NTHU) 2022.
-Currently, I'm also an intern in Industrial Technology Research Institute (ITRI), working on project about redistribution layer(RDL) routing.
+I'm now a master student of Graduate Institute of Electronics Engineering, National Taiwan University(NTU), Taiwan.
+Currently, I'm a member in [Laboratory of Dependable Systems](https://lads.ee.ntu.edu.tw/) (Instructor: Prof. Chien-Mo Li)
+I got my bachelor degree of Computer Science and minor in Quantitative Finance,in National Tsing Hua University(NTHU) 2022.
 
 ## 📚 Experience
-- Intership in Heterogeneous Integration Technology & Intelligent System Division/Electronic and Optoelectronic System research Lab./Industrial Technology Research Institute  (ITRI-EOSL-R100)   ,2021/3-now
+- Intership in ICC2 router team, Synopsys, 2022/7-2022/8
+- Intership in Heterogeneous Integration Technology & Intelligent System Division/Electronic and Optoelectronic System research Lab./Industrial Technology Research Institute  (ITRI-EOSL-R100)   ,2021/3-2022/3
 - Undergraduate student of NTHU CS [THETA LAB](http://theta.cs.nthu.edu.tw/) (Instructor: Prof. Tsung-Yi Ho)   ,2020/9-2021/12
 - Teaching assistant of Logic Design Laboratory(EECS207002) (Instructor: Prof. CHIH-TSUN HUANG)   ,2020/9-2021/1
 
