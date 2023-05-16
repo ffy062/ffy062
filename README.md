@@ -3,7 +3,7 @@
 ## 🧑‍🎓 About Myself
 I'm now a master student of Graduate Institute of Electronics Engineering, National Taiwan University(NTU), Taiwan.  
 Currently, I'm a member in [Laboratory of Dependable Systems](https://lads.ee.ntu.edu.tw/) (Instructor: Prof. Chien-Mo Li)  
-I got my bachelor degree of Computer Science and minor in Quantitative Finance,in National Tsing Hua University(NTHU) 2022.
+I got my bachelor degree of Computer Science and minor in Quantitative Finance in National Tsing Hua University(NTHU), 2022.
 
 ## 📚 Experience
 - Intership in ICC2 router team, Synopsys, 2022/7-2022/8
