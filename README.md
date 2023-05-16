@@ -1,7 +1,8 @@
 ## 👋 Hi there, Welcome to my GitHub homepage 
 
 ## 🧑‍🎓 About Myself
-I'm a student from department of computer science(CS) and minor in Quantitative Finance(QF), NTHU.
+I'm now a master student of Graduate Institute of Electronics Engineering(GIEE), National Taiwan University(NTU), Taiwan.
+By I got my bachelor degree of computer science(CS) and minor in Quantitative Finance(QF),in National Tsing Hua University (NTHU) 2022.
 Currently, I'm also an intern in Industrial Technology Research Institute (ITRI), working on project about redistribution layer(RDL) routing.
 
 ## 📚 Experience
